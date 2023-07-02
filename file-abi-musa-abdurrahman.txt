@@ -1,0 +1,2 @@
+#file dari 54_Abi-Musa-Abdurrahman
+print("Hallo kak Andri")
